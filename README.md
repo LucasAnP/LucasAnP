@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Antonio da SIlva</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+<div style="text-align:center;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niubajr19&hide=html,css&langs_count=5" alt="ghostdovahkiin" />
+   <img src="https://github-readme-stats.vercel.app/api?username=niubajr19&show_icons=true" alt="ghostdovahkiin" />
+</div>
 
 - 🌱 I’m currently learning **Angular, React and ReactNative**
 
