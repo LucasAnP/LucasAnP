@@ -1,3 +1,7 @@
+<p align="center">
+   <img width="400px" src="https://github.com/niubajr19/niubajr19/blob/main/giphy.gif" alt="Imagem developer" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Lucas Antonio da SIlva</h1>
 <h3 align="center">A Jr frontend developer from Brazil</h3>
 <div style="text-align:center;">
