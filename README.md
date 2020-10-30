@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="400px" src="https://github.com/niubajr19/niubajr19/blob/main/giphy.gif" alt="Imagem developer" />
+   <img width="300px" src="https://github.com/niubajr19/niubajr19/blob/main/giphy.gif" alt="Imagem developer" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Lucas Antonio da SIlva</h1>
