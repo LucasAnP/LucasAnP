@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Antonio da SIlva</h1>
 <h3 align="center">A Jr frontend developer from Brazil</h3>
 <div style="text-align:center;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niubajr19&hide=html,css,php&langs_count=5" alt="ghostdovahkiin" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niubajr19&hide=php&langs_count=5" alt="ghostdovahkiin" />
    <img src="https://github-readme-stats.vercel.app/api?username=niubajr19&show_icons=true" alt="ghostdovahkiin" />
 </div>
 
