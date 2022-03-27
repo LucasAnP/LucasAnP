@@ -9,7 +9,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=niubajr19&show_icons=true" alt="ghostdovahkiin" />
 </div>
 
-- 🌱 I’m currently learning **Angular, React and ReactNative**
+- 🌱 I’m currently learning **ReactNative, React and Angular**
 
 - 🤝 I’m looking for help with **Front End in general**
 
