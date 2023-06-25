@@ -2,43 +2,32 @@
    <img width="300px" src="https://github.com/niubajr19/niubajr19/blob/main/giphy.gif" alt="Imagem developer" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Lucas Antonio da SIlva</h1>
-<h3 align="center">A Frontend developer from Brazil</h3>
-<div style="text-align:center;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niubajr19&hide=html,css,php&langs_count=5" alt="ghostdovahkiin" />
-   <img src="https://github-readme-stats.vercel.app/api?username=niubajr19&show_icons=true" alt="ghostdovahkiin" />
-</div>
+<h1 align="center">Hi 👋, I'm Lucas Antonio da Silva</h1>
+<h3 align="center">A Mobile Developer from Brazil</h3>
 
-- 🌱 I’m currently learning **ReactNative, React and Angular**
+- 🌱 I’m currently improving **React Native** skills and **English**
 
-- 🤝 I’m looking for help with **Front End in general**
+- 👨‍💻 All of my projects are available at **[https://github.com/niubajr19](https://github.com/niubajr19)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/niubajr19](https://github.com/niubajr19)
+- 📫 How to contact or reach me: **lucas.antonio@dcx.ufpb.br**
 
-- 💬 Ask me about **SPA Frameworks**
-
-- 📫 How to reach me **lucas.antonio@dcx.ufpb.br / lucas.antonio1999@outlook.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/lucas-antonio-silva/](https://www.linkedin.com/in/lucas-antonio-silva/)
+- 📄 Know about my experiences **[Linkedin](https://www.linkedin.com/in/lucas-antonio-silva/)**
+: Connect with me! <3
 
 - ⚡ Fun fact **I tried to be a professional player of League of Legends.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lucas-antonio-silva/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/lucas-antonio-silva/" height="30" width="40" /></a>
-</p>
+<h3 align="left">Skills and technologies:</h3>
+<ul>
+   <li>React Native</li>
+   <li>Styled Components</li>
+   <li>Context</li>
+   <li>TypeScript</li>
+   <li>GraphQL(Apollo) | Rest (Axios)</li>
+   <li>Git</li>
+   <li>Agile (Scrum, Kanban)</li>
+   <li>Testing-Library (Jest)</li>
+   <li>Figma, Marvel</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-   React Native 
-</p>
-<p align="left">
-   React
-</p>
-<p align="left">
-   Angular
-</p>
-<p align="left">
-   Html, css e JS
-</p>
+
 
