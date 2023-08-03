@@ -2,9 +2,9 @@
    <img width="150px" src="https://github.com/niubajr19/niubajr19/blob/main/giphy.gif" alt="Imagem developer" />
 </p>
 
-<h1 align="center">Hello, welcome.👋<br/> I'm a Mobile Developer from Brazil.</h1>
+<h1 align="center">Hello, welcome.👋<br/> I'm a Software Developer from Brazil.</h1>
 
-- 🌱 Currently working with **React Native** and improving my skills.
+- 🌱 Currently working with **React/React Native** and improving my skills.
 
 - 👨‍💻 All of my projects are available at **[https://github.com/LucasAnP](https://github.com/LucasAnP?tab=repositories)**
 
